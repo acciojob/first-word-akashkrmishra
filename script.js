@@ -1,7 +1,9 @@
 function firstWord(s) {
   // your code here
 	let arr=s.split(" ");
-	return arr[0];
+	let ans= String(arr[0]);
+      return ans;
+
 }
 
 // Do not change the code below
